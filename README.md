@@ -79,4 +79,12 @@ Remain in the Admin Panel-Agents-Add New(Make two-Jane and John)
 ![Github image 83](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/55e6bd61-8347-4ac0-850c-6d7462e93c45)
 ![Github image 84](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/b6056b85-0883-4f13-aeb5-f83902ab2445)
 
+John Doe
+
+![Github image 85](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/0a2512a2-4682-4f62-b879-693fc8cfd294)
+
+![Github image 82](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/7af43751-21cc-4adf-bd8f-65e81d484103)
+
+
+![Github image 86](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/3fcee4e4-d6c9-4c65-ab45-f6df55762e80)
 
