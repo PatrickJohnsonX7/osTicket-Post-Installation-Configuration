@@ -20,28 +20,34 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-To navigate OSTicket and work tools that the appication offers. Such as configuring roles, department, teams,etc. Likewise, updating SLA and creating tickets. 
+To navigate OSTicket and work tools that the appication offers. Such as configuring roles, departments, teams,etc. Likewise, updating SLA and creating tickets. 
 
 
 <h2>Configuration Steps</h2>
 
 Step 1-Configure roles
+
 Click the Admin Panel
 ![Github image 66](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/bab953a8-34fd-4ddf-8e64-ee5516a87622)
 
+After going to the Admin Panel. Select Agents--Roles-"Add New Role"
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Github image 67-1](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/72c24954-f89a-4557-9f5d-1aa12a733552)
+
+Name new role and modifiy permissions 
+
+![Github image 68](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/9f0e8046-e1b8-4f7f-bed1-d70f266f7e1f)
+![Github image 69](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/2a357426-3765-4a36-bd0e-f90543d7b87c)
+![Github image 70](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/b9947695-b7e1-40bb-b826-6830a9ab2005)
+![Github image 71](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/04ec1859-3694-461e-a323-90f5a9811dec)
+
+Step 2-Configure Departments
+
+Remain in the Admin Panel and click Agents-Departments-"Add New Department"
+
+![Github image 72](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/06d1744a-72cc-470b-a322-30a1b6096562)
+
+![Github image 73](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/04dd59ff-e195-45df-bfc4-a6d616c5ce8a)
+
+You can put your name as manager 
