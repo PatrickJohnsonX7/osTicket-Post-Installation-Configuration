@@ -103,3 +103,32 @@ Ken
 ![Github image 91](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/cdb7a747-9abc-430c-b0b3-d2e89eba435a)
 ![Github image 92](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/f5fdf002-0d04-4efa-b174-bc7de0399caf)
 
+
+
+Step 4-Configure SLAs
+
+Go to Admin Panel-manage-SLA
+
+![Github image 93-1](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/a3c8922a-de9c-4b6a-84ce-336efbd43ce8)
+
+![Github image 94](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/106bc252-392b-4f85-ab7f-3d6f1d2ac094)
+![Github image 93](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/965ddd36-ee24-4548-b60a-94fb996121f2)
+![Github image 95](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/0326d609-4e60-4fcd-ae5d-b7f3ab574dab)
+![Github image 96](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/62670d51-e665-41d5-a919-c719264e43a0)
+
+
+
+Configure Help Topics
+
+Remain in Admin Panel-manage-Help Topics
+
+![Github image 97](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/38f3cf9f-4da8-49bc-9222-4633fa1ac634)
+
+
+![Github image 100](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/54a578ab-afac-4a2d-9829-aaef870f8c31)
+![Github image 99](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/ec82bca7-be4c-451b-83e2-df520445ee17)
+
+Compplete
+
+
+
