@@ -88,3 +88,18 @@ John Doe
 
 ![Github image 86](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/3fcee4e4-d6c9-4c65-ab45-f6df55762e80)
 
+Configure Users(Karen and Ken)
+
+Go to Agent Panel-Users-Add New
+
+![Github image 87](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/bceeb723-41e5-4392-a512-d74870b6d305)
+![Github image 88](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/496d81d0-5c87-4a3f-bd45-601170495fbe)
+![Github image 89](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/077cd6d1-c635-42da-a046-5762841f3121)
+![Github image 90](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/991039fe-12d9-4b4f-ad8d-2e7737c3e667)
+
+
+
+Ken
+![Github image 91](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/cdb7a747-9abc-430c-b0b3-d2e89eba435a)
+![Github image 92](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/f5fdf002-0d04-4efa-b174-bc7de0399caf)
+
