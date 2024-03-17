@@ -61,5 +61,22 @@ Remain in the Admin Panel and click Agents-Teams-"Add New Team"
 ![Github image 76](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/43f563aa-ae15-4c56-a611-cbd7049e8057)
 ![Github image 77](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/ad20ec66-916c-4079-9b22-60f147cd04fa)
 
+Step 4-Allow anyone to create tickets
+
+Remain in the Admin Panel 
+
+Click settings and User Settings
+
+![Github image 78](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/ac31733a-a4d4-497c-9acd-97c6757652f1)
+![Github image 79](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/79cf9e81-0442-4ae3-b6df-f02fc9dd4324)
+
+Configure Agents
+
+Remain in the Admin Panel-Agents-Add New(Make two-Jane and John)
+![Github image 80](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/af72108b-6623-4edb-a054-e596b9fab577)
+![Github image 81](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/e08a124a-9d91-4da3-874c-47c2806c5256)
+![Github image 82](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/b153ea25-ad24-44ff-b315-6ccfb0f9ea80)
+![Github image 83](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/55e6bd61-8347-4ac0-850c-6d7462e93c45)
+![Github image 84](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/b6056b85-0883-4f13-aeb5-f83902ab2445)
 
 
