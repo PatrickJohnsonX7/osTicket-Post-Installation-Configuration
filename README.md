@@ -128,7 +128,7 @@ Remain in Admin Panel-manage-Help Topics
 ![Github image 100](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/54a578ab-afac-4a2d-9829-aaef870f8c31)
 ![Github image 99](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/ec82bca7-be4c-451b-83e2-df520445ee17)
 
-Compplete
+Complete
 
 
 
