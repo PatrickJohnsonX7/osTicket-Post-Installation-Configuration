@@ -51,3 +51,15 @@ Remain in the Admin Panel and click Agents-Departments-"Add New Department"
 ![Github image 73](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/04dd59ff-e195-45df-bfc4-a6d616c5ce8a)
 
 You can put your name as manager 
+
+Step 3-Configure teams
+
+Remain in the Admin Panel and click Agents-Teams-"Add New Team"
+
+![Github image 74](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/04798f98-9ea5-47d0-bfce-b17a54bd0a3a)
+![Github image 75](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/73199775-944e-4a5a-8d04-2187477e998b)
+![Github image 76](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/43f563aa-ae15-4c56-a611-cbd7049e8057)
+![Github image 77](https://github.com/PatrickJohnsonX7/osTicket-Post-Installation-Configuration/assets/163357195/ad20ec66-916c-4079-9b22-60f147cd04fa)
+
+
+
